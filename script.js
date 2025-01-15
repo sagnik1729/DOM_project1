@@ -9,4 +9,4 @@ targetDiv.style.fontSize = '18px';         // Change font size to 18px
 targetDiv.style.fontWeight = 'bold';       // Set font weight to bold
 targetDiv.style.height = '200px';          // Set height to 200px
 targetDiv.style.width = '300px';           // Set width to 300px
-targetDiv.style.color='blue';
+targetDiv.style.color='blue';              // Set font color to blue
